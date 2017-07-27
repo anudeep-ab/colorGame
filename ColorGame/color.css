@@ -1,0 +1,35 @@
+body{
+	background-color: #232323;
+}
+
+.square{
+
+	background-color: green;
+	width: 30%;
+	float: left;
+	padding-bottom: 200px;
+	margin: 1.66%;
+	border-radius: 20px;
+
+}
+h1{
+	color: white;
+}
+
+#container{
+	max-width: 60%;
+	margin: 0 auto;
+}
+
+
+#testDisplay{
+	color: white;
+}
+#tryAgain{
+	text-align: center;
+	color: white;
+}
+#main{
+	text-align: center;
+	padding: 50px;
+}
